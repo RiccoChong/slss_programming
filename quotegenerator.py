@@ -16,4 +16,10 @@ input("what was your favourite quote? ")
 
 # Respind with something a human would say
 print ("Oh, that's my favourit, too")
-Th
+
+# Ask the user what their favourite food is 
+fave_food = input ("What's your favourite food? ")
+
+#Respind to their answer
+print(f"Oooo. {fave_food} sounds good! ")
+
