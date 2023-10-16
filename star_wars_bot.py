@@ -31,9 +31,5 @@ elif fav_colour == "no" and like_cape == "yes":
     print("Yes...")
     time.sleep(1)
     print("Welcome to the dark side")
-elif fav_colour == "no" and like_cape == "no":
-    print("Oooooo")
-    time.sleep(1)
-    print("Light side, i see...")
 else:
     print("Light side, I see...")
