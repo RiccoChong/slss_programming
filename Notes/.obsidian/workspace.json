@@ -4,41 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "c67b8163662953f2",
+        "id": "43148098a16eed8a",
         "type": "tabs",
         "children": [
           {
-            "id": "0fd5354023ddfaff",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5a254eae54963184",
+            "id": "3eefdb47b2f040f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown (Re)introduction.md",
+                "file": "slss programming level one notes/Iteration.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a2a030ade48e43b3",
+            "id": "fd592e884049954c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "Type.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47436c84adc37c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slss programming level one notes/Errors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "606b17e9d54b3bf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4814696340ab1532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slss programming level one notes/lists.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -84,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown (Re)introduction.md",
+                "file": "slss programming level one notes/lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown (Re)introduction.md",
+                "file": "slss programming level one notes/lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown (Re)introduction.md"
+                "file": "slss programming level one notes/lists.md"
               }
             }
           },
@@ -155,7 +184,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -176,10 +207,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2a030ade48e43b3",
+  "active": "4814696340ab1532",
   "lastOpenFiles": [
+    "slss programming level one notes/Errors.md",
+    "Functions.md",
+    "slss programming level one notes/Headers.md",
+    "slss programming level one notes/lists.md",
+    "slss programming level one notes/Iteration.md",
+    "slss programming level one notes/Strings.md",
+    "Recommendation System.md",
+    "Type.md",
+    "slss programming level one notes/Numbers.md",
+    "Recommendation Systems.md",
+    "popularity and likes.md",
+    "slss programming level one notes/1 - Natural Language Processing.md",
+    "slss programming level one notes/Boolean.md",
+    "slss programming level one notes/Conditionals.md",
+    "slss programming level one notes/Design.md",
+    "slss programming level one notes/Modules.md",
+    "Methods.md",
+    "loop_practice.py",
+    "Markdown",
+    "slss programming level one notes",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "cat.md",
-    "Markdown (Re)introduction.md",
-    "docs.google.com.md"
+    "docs.google.com.md",
+    "Markdown/Markdown (Re)introduction.md",
+    "Design.mdMarkdown (raw)Open file.webloc"
   ]
 }

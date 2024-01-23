@@ -6,14 +6,15 @@ common_similarities = 0
 
 # Input all hobbies of the user
 print("please enter hobbies, seperate by spaces")
-p1_hobbies = input("Person 1: ").lower
-p2_hobbies = input("Person 2: ").lower
+p_1 = input("Person 1: ").lower().split()
+p_2 = input("Person 2: ").lower().split()
 
 # make an if statement and compare the users answer 
-for hob in p1_hobbies and p2_hobbies:
-    common_similarities[0]
-
-if p1_hobbies == p2_hobbies:
+if p_1[0] in p_2:
+    common_similarities += 1
+if p_1[1] in p_2:
+    common_similarities += 1
+if p_1[2] in p_2:
     common_similarities += 1
 
 #print the answers

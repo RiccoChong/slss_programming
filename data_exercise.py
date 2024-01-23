@@ -60,12 +60,13 @@ profile = [
 
 with open("./data_example.csv", encoding="utf-8") as f:
     x = f.readline()
+
     for line in f:
         line_list = line.split(",")
 
-for food in profile:
-    if food in x:
-        chicken_adobo_fans += 1
+        for item in profile:
+            if item in f:
+                chicken_adobo_fans += 1
 
 print("---CHICKEN ADOBO FANS---")
 print(f"Their are {chicken_adobo_fans} people who like chicken adobo!")

@@ -64,11 +64,12 @@ def pixel_to_grayscale(pixel: tuple) -> tuple:
 
 def pixel_to_random_effect(pixel: tuple) -> tuple:
     """Return a random pixel"""
-    red, green, blue = pixel
+    red, green, blue, red1 = pixel
 
     red += 30
     green += 50
     blue -= 10
+    red1 += 240
 
     if red > 255:
         red = 255
@@ -76,5 +77,7 @@ def pixel_to_random_effect(pixel: tuple) -> tuple:
         green = 255
     if blue < 0:
         blue = 0
+    if 240 <= red1:
+        red1<= 250
 
-    return (red, green, blue)
+    return (red, green, blue, red1)

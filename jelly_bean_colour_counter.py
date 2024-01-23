@@ -18,6 +18,7 @@ BLUE_PIXEL = (0, 0, 160)
 
 jelly_bean_img = Image.open("./Images/Jelly Beans.jpg")
 
+
 red_pixels = []
 green_pixels = []
 blue_pixels = []

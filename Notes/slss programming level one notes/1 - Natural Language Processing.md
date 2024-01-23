@@ -25,5 +25,30 @@ we grab information from the user using `input`()
 it will wait for the user to tupe something in and press ENTER/RETURN
 ```python
 input()
-input(<rompt<)
+input(<prompt<)
 ```
+
+
+# Variables
+Variables allow us to **store** information for the time our app us running.
+(store the input into the variable "favourite food")
+
+
+```python
+favourite_food = input("What is your favourite food? ")
+```
+
+favourite_food -> ***name*** of the variable
+= -> assignment operator
+input... -> value
+
+# [[Strings]]
+
+# [[Design]]
+
+# [[lists]]
+# [[Modules]]
+
+# [[Conditionals]]
+
+# [[Boolean]]

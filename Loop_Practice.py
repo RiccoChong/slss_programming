@@ -64,5 +64,19 @@ else:   #if we don't find the person
 for _ in range(100):
     print("Mr Ubial is cool. ")
 
-for i in range(5):
+for i in range(100):
+    print(i)
+
+#can we start at another number?
+for i in range(3, 100):
+    print(i)
+# Can we count by any other number?
+for i in range(0, 100, 3):
+    print(i)
+
+
+for i in range(1200, 1500, 2):
+    print(i)
+
+for i in range(-149, 0, 2):
     print(i)
